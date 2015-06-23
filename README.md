@@ -1,2 +1,2 @@
 # trueVault
-playing with trueVault API, live at [mathbiol.github.io/trueVault](http://mathbiol.github.io/trueVault/)
+playing with [trueVault](https://www.truevault.com/) API, live at [mathbiol.github.io/trueVault](http://mathbiol.github.io/trueVault/)
